@@ -1,0 +1,8 @@
+---
+category: data
+filename: strain_attributes.txt
+weight: 1
+title: Strain Attributes
+description: Strain attributes (effects, ratings, parents, description, etc.)
+type: application/json
+---
