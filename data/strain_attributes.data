@@ -3,6 +3,6 @@ category: data
 filename: strain_attributes.txt
 weight: 1
 title: Strain Attributes
-description: List of cannabis strains alongside attributes such as ratings, top reported effects, description, and parent strains
+description: List of cannabis strains alongside attributes such as ratings, top reported effects, description, and parent strains.
 type: application/json
 ---
