@@ -1,0 +1,8 @@
+---
+category: data
+filename: categories.txt
+weight: 2
+title: Category Terms
+description: Contains a list of fruit names, as well as a list of specific color names grouped into thirteen major shades.
+type: application/json
+---
